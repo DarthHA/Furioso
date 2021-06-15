@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9plycUVCLiWTgt+dPLVR0aJLAPCBKm6h4pYpPv98kPMzx1xrHy4ywVSg8nPQUK9F9ymb2JC50bs03yjVcwDBBg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrator\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Furioso\\Furioso.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
