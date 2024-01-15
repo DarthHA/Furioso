@@ -1,0 +1,19 @@
+﻿=Description=
+This mod adds Roland's Black Glove from Library of Ruina,
+with which you can use various workshop weapons, and the super attack - Furioso.
+You can get it with a new player named Roland or Black Silence.
+Only your name is "Roland" or "Black Silence",you can use the weapon in the glove.
+
+The mod cannot be used in multiplayer mode.
+
+Thanks to 秋风Pro's work on porting to 1.4 -Volknet_Online
+
+=介绍=
+该模组加入了《废墟图书馆》中的罗兰的黑色手套，
+佩戴手套可以挥动多种工坊武器以及大招-Furioso。
+你可以创建一个名为罗兰或者漆黑噤默的新人物来获得。
+只有当你的名字是"罗兰"或"漆黑噤默"时，你才能使用。
+
+该mod无法在多人游戏中使用。
+
+感谢秋风Pro的搬运工作 -网络核心

@@ -1,0 +1,234 @@
+Buffs: {
+	AllasBrokenArmor: {
+		DisplayName: Allas Workshop-Broken Armor
+		Description: ""
+	}
+
+	BlackSilenceBuff: {
+		DisplayName: Black Silence
+		Description: Every third Black Silence weapon's damage will be increased by 50%.
+	}
+
+	BlackSilenceCounterBuff: {
+		DisplayName: Black Silence Counter
+		Description: ""
+	}
+
+	DurandalPower: {
+		DisplayName: Durandal-Power
+		Description: Your Black Silence weapon damage increased by 50%
+	}
+
+	FuriosoBuff: {
+		DisplayName: Furioso
+		Description: You are immune to damage, and all Black Silence weapons will stagger enemies.
+	}
+
+	FuriosoStun: {
+		DisplayName: Furioso-Stagger
+		Description: ""
+	}
+
+	RangaBleeding: {
+		DisplayName: Ranga Workshop-Bleeding
+		Description: ""
+	}
+
+	WheelStun: {
+		DisplayName: Wheel Industry-Stun
+		Description: ""
+	}
+}
+
+Items: {
+	AllasItem: {
+		DisplayName: Allas Workshop
+		Tooltip:
+			'''
+			Cooldown time: 2 seconds
+			Use the giant lance to penetrate two times forward
+			Hitting an enemy can temporarily lower its defense
+			'''
+	}
+
+	BlackGloveItem: {
+		DisplayName: Black Glove
+		Tooltip: ""
+	}
+
+	CrystalItem: {
+		DisplayName: Crystal Atelier
+		Tooltip:
+			'''
+			Cooldown time: 3 seconds
+			Use dual sword to dash and chop twice in the selected direction
+			Can dodge enemy attacks and restore health equal as the damage
+			'''
+	}
+
+	DurandalItem: {
+		DisplayName: Durandal
+		Tooltip:
+			'''
+			Cooldown time: 2 seconds
+			Use the Holy Sword Durandal to slash forward twice
+			Hitting an enemy can temporarily increase the damage of the Black Silence Weapons
+			'''
+	}
+
+	FuriosoItem: {
+		DisplayName: Furioso
+		Tooltip:
+			'''
+			Can only be used after all nine Black Silence weapons hit the enemy
+			Take turns using nine weapons to attack, during which you are immune to all damage
+			All attacks will stun enemies
+			'''
+	}
+
+	LogicItem: {
+		DisplayName: Atelier Logic
+		Tooltip:
+			'''
+			Cooldown time: 2 seconds
+			Use dual revolvers and shotgun to launch long-range attacks
+			'''
+	}
+
+	MookItem: {
+		DisplayName: Mook Workshop
+		Tooltip:
+			'''
+			Cooldown time: 2 seconds
+			Use the katana to slash forward at high speed
+			Each attack will add additional damage
+			'''
+	}
+
+	OldBoysItem: {
+		DisplayName: Old Boys Workshop
+		Tooltip:
+			'''
+			Cooldown time: 1 seconds
+			Use the hammer to swing forward
+			This attack can weaken hostile projectiles and enemy melee attack
+			'''
+	}
+
+	RangaItem: {
+		DisplayName: Ranga Workshop
+		Tooltip:
+			'''
+			Cooldown time: 1 seconds
+			Use the claws to stab in the selected direction twice, and then use the dagger to stab once
+			Hitting an enemy can apply bleeding debuff
+			'''
+	}
+
+	WheelItem: {
+		DisplayName: Wheel Industry
+		Tooltip:
+			'''
+			Cooldown time: 4 seconds
+			Use the giant blade to smash forward and stun the enemy
+			'''
+	}
+
+	ZelkovaItem: {
+		DisplayName: Zelkova Workshop
+		Tooltip:
+			'''
+			Cooldown time: 1 seconds
+			Use war axe and mace to smash forward
+			Attacks will add enemies' melee damage to them
+			'''
+	}
+}
+
+Projectiles: {
+	AllasHeld.DisplayName: Allas Workshop
+	AllasHeld1.DisplayName: Allas Workshop
+	AllasPen.DisplayName: Allas Workshop
+	AllasPen2.DisplayName: Allas Workshop
+	CrystalHeld.DisplayName: Crystal Atelier
+	CrystalHeld1.DisplayName: Crystal Atelier
+	CrystalHeld2.DisplayName: Crystal Atelier
+	CrystalSlash1.DisplayName: Crystal Atelier
+	CrystalSlash12.DisplayName: Crystal Atelier
+	CrystalSlash2.DisplayName: Crystal Atelier
+	DurandalHeld.DisplayName: Durandal
+	DurandalHeld1.DisplayName: Durandal
+	DurandalHeld2.DisplayName: Durandal
+	DurandalSlash1.DisplayName: Durandal
+	DurandalSlash12.DisplayName: Durandal
+	DurandalSlash2.DisplayName: Durandal
+	DurandalSlash22.DisplayName: Durandal
+	DurandalSlash3.DisplayName: Durandal
+	DurandalSwing1.DisplayName: Durandal
+	DurandalSwing2.DisplayName: Durandal
+	LogicGunExplosion1.DisplayName: Atelier Logic
+	LogicGunExplosion2.DisplayName: Atelier Logic
+	LogicHeld.DisplayName: Atelier Logic
+	LogicHeld1.DisplayName: Atelier Logic
+	LogicHeld2.DisplayName: Atelier Logic
+	LogicHeld3.DisplayName: Atelier Logic
+	LogicShot.DisplayName: Atelier Logic
+	MookHeld.DisplayName: Mook Workshop
+	MookSlash1.DisplayName: Mook Workshop
+	MookSlash2.DisplayName: Mook Workshop
+	OldBoysGuard.DisplayName: Old Boys Workshop
+	OldBoysHeld.DisplayName: Old Boys Workshop
+	OldBoysSwing.DisplayName: Old Boys Workshop
+	RangaHeld.DisplayName: Ranga Workshop
+	RangaHeld1.DisplayName: Ranga Workshop
+	RangaHeld2.DisplayName: Ranga Workshop
+	RangaSlash1.DisplayName: Ranga Workshop
+	RangaSlash2.DisplayName: Ranga Workshop
+	AllasHeldSpecial.DisplayName: Furioso
+	CrystalHeldSpecial.DisplayName: Furioso
+	DurandalHeldSpecial.DisplayName: Furioso
+	DurandalHeldSpecial1.DisplayName: Furioso
+	DurandalHeldSpecial2.DisplayName: Furioso
+	DurandalSlashSpecial1.DisplayName: Furioso
+	DurandalSlashSpecial2.DisplayName: Furioso
+	DurandalSlashSpecial3.DisplayName: Furioso
+	DurandalSwingSpecial.DisplayName: Furioso
+	LogicHeldSpecial1.DisplayName: Furioso
+	LogicHeldSpecial2.DisplayName: Furioso
+	SuperAttackHeld.DisplayName: Furioso
+	WheelExplosion.DisplayName: Wheel Industry
+	WheelExplosion1.DisplayName: Wheel Industry
+	WheelExplosion2.DisplayName: Wheel Industry
+	WheelExplosion3.DisplayName: Wheel Industry
+	WheelHeld.DisplayName: Wheel Industry
+	WheelSwing.DisplayName: Wheel Industry
+	WheelSwing2.DisplayName: Wheel Industry
+	AxeSwing.DisplayName: Zelkova Workshop
+	MaceSwing.DisplayName: Zelkova Workshop
+	ZelkovaHeld.DisplayName: Zelkova Workshop
+	ZelkovaHeldAxe.DisplayName: Zelkova Workshop
+	ZelkovaHeldMace.DisplayName: Zelkova Workshop
+}
+
+BSBuffExtraDesc:
+	'''
+	Effect of Perception-blocking Mask:
+	You have 20% chance of being immune when using any Black Silence weapons
+	'''
+BSCBuffHitCounter: "{0} type(s) of Black Silence weapons have hit the target"
+BSCBuffCanUseFurioso: Can use Furioso now
+BSDamage: " Black Silence Damage"
+BSDeathText: A man drifts down the gutter.
+GloveNormalDesc:
+	'''
+	A pair of normal gloves
+	Really?
+	'''
+GloveRolandDesc:
+	'''
+	Relics from loved ones
+	It carries the thoughts of the past
+	"Obtain nine Black Silence weapons
+	Effects of the Black Silence
+	'''
+WeaponExtraDesc: Right click to switch to a random weapon

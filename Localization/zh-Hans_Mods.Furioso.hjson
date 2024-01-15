@@ -1,0 +1,235 @@
+Buffs: {
+	AllasBrokenArmor: {
+		DisplayName: 阿拉斯工坊-破甲
+		Description: ""
+	}
+
+	BlackSilenceBuff: {
+		DisplayName: 漆黑噤默
+		Description: 每三次漆黑噤默武器伤害增加50%
+	}
+
+	BlackSilenceCounterBuff: {
+		DisplayName: 漆黑噤默计数器
+		Description: ""
+	}
+
+	DurandalPower: {
+		DisplayName: 杜兰达尔-强壮
+		Description: 你的漆黑噤默武器威力增加50%
+	}
+
+	FuriosoBuff: {
+		DisplayName: Furioso
+		Description: 你免疫所有伤害，且所有漆黑噤默武器均会击溃敌人
+	}
+
+	FuriosoStun: {
+		DisplayName: Furioso-击溃
+		Description: ""
+	}
+
+	RangaBleeding: {
+		DisplayName: 琅琊工坊-流血
+		Description: ""
+	}
+
+	WheelStun: {
+		DisplayName: 轮盘重工-击晕
+		Description: ""
+	}
+}
+
+Items: {
+	AllasItem: {
+		DisplayName: 阿拉斯工坊
+		Tooltip:
+			'''
+			冷却时间：2秒
+			使用巨骑枪向前发动两次突刺
+			击中敌人可以暂时降低其防御
+			'''
+	}
+
+	BlackGloveItem: {
+		DisplayName: 漆黑噤默手套
+		Tooltip: ""
+	}
+
+	CrystalItem: {
+		DisplayName: 卡莉斯塔工作室
+		Tooltip:
+			'''
+			冷却时间：3秒
+			使用双刀向指定方向冲刺劈砍两次
+			可以闪避敌人攻击并回复
+			'''
+	}
+
+	DurandalItem: {
+		DisplayName: 杜兰达尔
+		Tooltip:
+			'''
+			冷却时间：2秒
+			使用圣剑杜兰达尔向前劈砍两次
+			命中敌人可以暂时提高漆黑噤默武器的伤害
+			'''
+	}
+
+	FuriosoItem: {
+		DisplayName: Furioso
+		Tooltip:
+			'''
+			只有在九种漆黑噤默武器全部命中后才能使用
+			你暂时处于无敌状态，轮流使用九种武器发动攻击
+			所有攻击均会击溃敌人
+			'''
+	}
+
+	LogicItem: {
+		DisplayName: 逻辑工作室
+		Tooltip:
+			'''
+			冷却时间：2秒
+			使用双枪和霰弹枪进行远程攻击
+			'''
+	}
+
+	MookItem: {
+		DisplayName: 墨工坊
+		Tooltip:
+			'''
+			冷却时间：2秒
+			使用太刀向前方高速斩击
+			每次攻击都会附加额外伤害
+			'''
+	}
+
+	OldBoysItem: {
+		DisplayName: 老男孩工坊
+		Tooltip:
+			'''
+			冷却时间：1秒
+			用锤子向前挥击
+			本攻击可以削弱敌对弹幕和NPC近战攻击
+			'''
+	}
+
+	RangaItem: {
+		DisplayName: 琅琊工坊
+		Tooltip:
+			'''
+			冷却时间：1秒
+			使用钢爪向指定方向冲刺突击两次，然后使用匕首突刺一次
+			击中敌人可以施加流血debuff
+			'''
+	}
+
+	WheelItem: {
+		DisplayName: 轮盘重工
+		Tooltip:
+			'''
+			冷却时间：4秒
+			使用巨刃向前砸击，并击晕敌人
+			'''
+	}
+
+	ZelkovaItem: {
+		DisplayName: 榉树工坊
+		Tooltip:
+			'''
+			冷却时间：1秒
+			使用短柄斧和战锤向前砸击
+			攻击会附加敌人的近战伤害
+			'''
+	}
+}
+
+Projectiles: {
+	AllasHeld.DisplayName: 阿拉斯工坊
+	AllasHeld1.DisplayName: 阿拉斯工坊
+	AllasPen.DisplayName: 阿拉斯工坊
+	AllasPen2.DisplayName: 阿拉斯工坊
+	CrystalHeld.DisplayName: 卡莉斯塔工作室
+	CrystalHeld1.DisplayName: 卡莉斯塔工作室
+	CrystalHeld2.DisplayName: 卡莉斯塔工作室
+	CrystalSlash1.DisplayName: 卡莉斯塔工作室
+	CrystalSlash12.DisplayName: 卡莉斯塔工作室
+	CrystalSlash2.DisplayName: 卡莉斯塔工作室
+	DurandalHeld.DisplayName: 杜兰达尔
+	DurandalHeld1.DisplayName: 杜兰达尔
+	DurandalHeld2.DisplayName: 杜兰达尔
+	DurandalSlash1.DisplayName: 杜兰达尔
+	DurandalSlash12.DisplayName: 杜兰达尔
+	DurandalSlash2.DisplayName: 杜兰达尔
+	DurandalSlash22.DisplayName: 杜兰达尔
+	DurandalSlash3.DisplayName: 杜兰达尔
+	DurandalSwing1.DisplayName: 杜兰达尔
+	DurandalSwing2.DisplayName: 杜兰达尔
+	LogicGunExplosion1.DisplayName: 逻辑工作室
+	LogicGunExplosion2.DisplayName: 逻辑工作室
+	LogicHeld.DisplayName: 逻辑工作室
+	LogicHeld1.DisplayName: 逻辑工作室
+	LogicHeld2.DisplayName: 逻辑工作室
+	LogicHeld3.DisplayName: 逻辑工作室
+	LogicShot.DisplayName: 逻辑工作室
+	MookHeld.DisplayName: 墨工坊
+	MookSlash1.DisplayName: 墨工坊
+	MookSlash2.DisplayName: 墨工坊
+	OldBoysGuard.DisplayName: 老男孩工坊
+	OldBoysHeld.DisplayName: 老男孩工坊
+	OldBoysSwing.DisplayName: 老男孩工坊
+	RangaHeld.DisplayName: 琅琊工坊
+	RangaHeld1.DisplayName: 琅琊工坊
+	RangaHeld2.DisplayName: 琅琊工坊
+	RangaSlash1.DisplayName: 琅琊工坊
+	RangaSlash2.DisplayName: 琅琊工坊
+	AllasHeldSpecial.DisplayName: Furioso
+	CrystalHeldSpecial.DisplayName: Furioso
+	DurandalHeldSpecial.DisplayName: Furioso
+	DurandalHeldSpecial1.DisplayName: Furioso
+	DurandalHeldSpecial2.DisplayName: Furioso
+	DurandalSlashSpecial1.DisplayName: Furioso
+	DurandalSlashSpecial2.DisplayName: Furioso
+	DurandalSlashSpecial3.DisplayName: Furioso
+	DurandalSwingSpecial.DisplayName: Furioso
+	LogicHeldSpecial1.DisplayName: Furioso
+	LogicHeldSpecial2.DisplayName: Furioso
+	SuperAttackHeld.DisplayName: Furioso
+	WheelExplosion.DisplayName: 轮盘重工
+	WheelExplosion1.DisplayName: 轮盘重工
+	WheelExplosion2.DisplayName: 轮盘重工
+	WheelExplosion3.DisplayName: 轮盘重工
+	WheelHeld.DisplayName: 轮盘重工
+	WheelSwing.DisplayName: 轮盘重工
+	WheelSwing2.DisplayName: 轮盘重工
+	AxeSwing.DisplayName: 榉树工坊
+	MaceSwing.DisplayName: 榉树工坊
+	ZelkovaHeld.DisplayName: 榉树工坊
+	ZelkovaHeldAxe.DisplayName: 榉树工坊
+	ZelkovaHeldMace.DisplayName: 榉树工坊
+}
+
+BSBuffExtraDesc:
+	'''
+	认知阻碍面具效果：
+	使用任意漆黑噤默武器时有20%的几率处于无敌状态
+	'''
+BSCBuffHitCounter: 已有{0}种漆黑噤默武器击中目标
+BSCBuffCanUseFurioso: 现在可以发动Furioso
+BSDamage: " 漆黑噤默伤害"
+BSDeathText: 一个男人顺着下水道的水流涌了上来。
+GloveNormalDesc:
+	'''
+	一副普通的黑手套
+	真的吗？
+	'''
+GloveRolandDesc:
+	'''
+	来自挚爱之人的遗物
+	它承载着对过去的思念
+	获得九种漆黑噤默武器
+	拥有漆黑噤默效果
+	生命低于50%时可以使用认知阻碍面具
+	'''
+WeaponExtraDesc: 右键随机切换武器
